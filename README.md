@@ -1,5 +1,5 @@
 # Aggregate-Functions-and-Grouping
-Let's break down the SQL queries you've provided, explaining each one in detail.
+Let's break down the SQL queries have provided, explaining each one in detail.
 
 # Selecting all the data in the employees table:
  SELECT * FROM employees;
